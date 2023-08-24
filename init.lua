@@ -1,0 +1,6 @@
+require("luciano.plugins-setup")
+require("luciano.core.options")
+require("luciano.core.keymaps")
+require("luciano.core.colorscheme")
+require("luciano.plugins.comment")
+require ("luciano.plugins.nvim-tree")
